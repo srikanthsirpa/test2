@@ -1,1 +1,1 @@
-select * from emp
+select empno,ename,sal from emp
